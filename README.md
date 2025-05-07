@@ -1,2 +1,0 @@
-# GithgubUpload
-ProjectUpload
